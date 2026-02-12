@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	go.n16f.net/program v0.0.0-20250918094618-b194f071aee8
-	golang.org/x/image v0.32.0
+	golang.org/x/image v0.24.0
 )
 
 require (
